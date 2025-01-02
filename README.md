@@ -1,0 +1,1 @@
+This repository contains the electronical supplement for Chapter 1 of my dissertation with the title "The Cpx envelope stress response of Pseudomonas aeruginosa and its role in antibiotic resistance". It contains one file with the Key Resource Table and one with all supplementary tables.
